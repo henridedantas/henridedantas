@@ -4,7 +4,7 @@
 
 ![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=8B0000)
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=8B0000)
-![C#](https://img.shields.io/badge/C%-0d0d0d?style=for-the-badge&logo=csharp&logoColor=8B0000)
+![C#](https://img.shields.io/badge/C%23-0d0d0d?style=for-the-badge&logo=csharp&logoColor=8B0000)
 ![R](https://img.shields.io/badge/R-0d0d0d?style=for-the-badge&logo=r&logoColor=8B0000)
 ![PHP](https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&logo=php&logoColor=8B0000)
 ![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=8B0000)
